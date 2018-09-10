@@ -33,10 +33,14 @@ h3 {
   margin: 0;
 }
 a {
-  color: #EF233C;
+   color: blue;
+  /* color: #EF233C; */
 }
 a:hover {
   text-decoration: none;
+}
+.contactLink{
+  color: white;
 }
 .content-wrap {
   max-width: 950px;
@@ -51,8 +55,8 @@ a:hover {
 .col-wide {
   width: 70%;
   float: left;
-  padding-left: 20px; */
-}
+  padding-left: 20px;   
+} */
 .uppercase {
   text-transform: uppercase;
 }
